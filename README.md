@@ -52,4 +52,24 @@ My journey includes intensive practical training in **Agile/Scrum** environments
 - **Key Achievements:** Implemented smooth CSS animations, coordinated team tasks, conducted code reviews, and managed merge conflicts.
 - **Code:** [View Repository](https://github.com/andriybb/project-CoffeeJoy)
 
-### 🐾 **[Lapolis
+### 🐾 **[Lapolis](https://hannamuzychuk.github.io/Lapolis-JS-project)**
+> An interactive web application for data organization (social project).
+- **Role:** Scrum Master / Developer
+- **Tech Stack:** JavaScript, HTML5, REST API, Axios
+- **Key Achievements:** Implemented dynamic DOM manipulation and data fetching via REST API. Facilitated daily stand-ups and ensured sprint goals were met.
+- **Code:** [View Repository](https://github.com/hannamuzychuk/Lapolis-JS-project)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andriybb&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Andrii's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriybb&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+---
+
+<p align="center">
+  <i>Let's build something amazing together!</i>
+</p>
