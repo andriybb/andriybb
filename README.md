@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Andrii Baranovych 👋</h1>
-<h3 align="center">Fullstack Developer based in Rivne, Ukraine</h3>
+<br>
+<h2 align="center">Fullstack Developer based in Rivne, Ukraine</h3>
 
 <p align="center">
   <a href="mailto:and123bar@gmail.com">
