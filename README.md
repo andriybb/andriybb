@@ -64,8 +64,13 @@ My journey includes intensive practical training in **Agile/Scrum** environments
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andriybb&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Andrii's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriybb&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andriybb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Andrii's Stats" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriybb&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  </a>
 </div>
 
 ---
