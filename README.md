@@ -59,6 +59,20 @@ My journey includes intensive practical training in **Agile/Scrum** environments
 - **Key Achievements:** Implemented dynamic DOM manipulation and data fetching via REST API. Facilitated daily stand-ups and ensured sprint goals were met.
 - **Code:** [View Repository](https://github.com/hannamuzychuk/Lapolis-JS-project)
 
+### 🤰 **[Little Steps](https://little-steps-leleka.com)**
+> An interactive web application for data organization (social project).
+- **Role:** Developer
+- **Tech Stack:** Next.js, TypeScript, Zustand, TanStack Query, Formik, CSS Modules
+- **Key Achievements:** Developed an interactive pregnancy week selector and a modal system using Zustand for state management. Refactored styles with CSS Modules, ensuring seamless UI/UX across mobile and desktop devices. Implemented form validation via Formik/Yup and optimized navigation logic for enhanced user engagement.
+- **Code:** [View Repository](https://github.com/ValeriiBrykalov7/little_steps_frontend_final_project)
+
+### 🚗 **[Rental Car](https://rental-car-ten-omega.vercel.app)**
+> A responsive web application for exploring and renting vehicles, featuring a dynamic catalog, advanced search filters, and user favorites management.
+- **Role:** Solo Developer
+- **Tech Stack:** Next.js, TypeScript, React, Redux Toolkit, React Router, Zustand, TanStack Query, Formik, Axios, CSS Modules
+- **Key Achievements:** Integrated complex multi-criteria filtering (by car brand, hourly rate, and mileage) to significantly improve the user search experience. Optimized API calls using Axios to efficiently fetch and render dynamic car catalog data.
+- **Code:** [View Repository](https://github.com/andriybb/RentalCar)
+
 ---
 
 ---
