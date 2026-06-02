@@ -16,7 +16,8 @@
 <br>
 
 ## 👨‍💻 About Me 
-**[Portfolio]([https://portfolio-seven-pied-34.vercel.app])**
+ ### **[Portfolio]([https://portfolio-seven-pied-34.vercel.app])**
+ 
 I am a motivated **Fullstack Developer** with a strong foundation in building responsive web applications and RESTful APIs. I am passionate about creating intuitive user experiences and writing clean, maintainable code.
 
 My journey includes intensive practical training in **Agile/Scrum** environments, where I have taken on roles such as **Team Lead** and **Scrum Master**. I am committed to continuous learning and ready to deliver high-quality solutions for complex technical challenges.
